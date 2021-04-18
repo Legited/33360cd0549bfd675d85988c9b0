@@ -1,0 +1,16 @@
+
+  Projeto desenvolvido por Santos#2234
+ 
+     Aviso:
+     
+  !! Todos os sistemas feitos nesse projeto, foram de minha autoria, caso alguém os copie os creditos foram roubados de mim !!
+  !! Não há codigos semelhantes em qualquer outra parte da internet.                                                         !!
+  
+    Em que consiste:
+    
+  $$ Consiste em um batch file ao qual otimiza seu pc, para proporcionar uma melhora nos FPS in game, ele será atualizado   $$                    
+  $$ Constantimente, ATENÇÃO, não garanto melhoras absurdas.                                                                $$ 
+  
+    Versão:
+    
+  ** Beta 1.0 
